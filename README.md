@@ -837,5 +837,5 @@ A succinct cheat sheet for newbie linux coders and system administrators, docume
     mysql -u username -p --database=databasename < dumpfile.sql
 
 
-> Written with [3bollblog](http://3boll.com/blog).
+
 
